@@ -1,6 +1,6 @@
 # UK Food Standards Agency Database Analysis
 
-This project involves the analysis of food hygiene ratings data provided by the UK Food Standards Agency. The goal is to assist the editors of a food magazine, "Eat, Safe, Love," in evaluating establishments across the United Kingdom. The analysis is conducted using MongoDB for data storage and Jupyter Notebooks for data manipulation and exploration.
+This project involves the analysis of food hygiene ratings data provided by the UK Food Standards Agency. The goal is to assist the editors of a food magazine, "Eat Safe, Love," in evaluating establishments across the United Kingdom. The analysis is conducted using MongoDB for data storage and Jupyter Notebooks for data manipulation and exploration.
 
 # Project Structure
 The project is organized into three main parts:
@@ -40,7 +40,7 @@ Python 3.x installed with Jupyter Notebooks.
 Internet connection for package installations.
 
 # Conclusion
-This project provides a comprehensive analysis of food hygiene ratings data, offering valuable insights for decision-making by "Eat, Safe, Love." The organized structure allows for easy reproduction and extension of the analysis. Further improvements and contributions are welcome. 
+This project provides a comprehensive analysis of food hygiene ratings data, offering valuable insights for decision-making by "Eat Safe, Love." The organized structure allows for easy reproduction and extension of the analysis. Further improvements and contributions are welcome. 
 
 # Author & Acknowledgements
 Jorge Nardy
